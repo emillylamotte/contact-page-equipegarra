@@ -29,18 +29,17 @@ section h2{
     font-weight: normal;
     font-size: 0.8rem;
     text-indent: 1rem;
-    padding: 0.8rem;
+    padding: 0.3rem;
     max-width: 95%;
     padding-bottom: 1rem;
     
 }
 section h1{
     color: black;
-    text-align: center;
-    padding: 1.3rem;
+    text-align:center;
     font-size: 1.5rem;
-   
     display: inline-flex;
+    align-items: center;
     
 }
 header{
