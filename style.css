@@ -82,8 +82,9 @@ img{
     border-radius: 100%;
     width: 30%;
     height:30%;
-    margin-left: 2rem;
-    margin-right: auto;
+    margin-left: 1rem;
+    align-items: center;
+    text-align: left;
     display: inline-block;
     transform: translatey(2%);
     border: 1.5px solid black
