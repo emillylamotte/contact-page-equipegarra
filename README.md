@@ -13,3 +13,5 @@ A página contém um link para as principais redes sociais da Equipe Garra de Ta
 A página é responsiva, ou seja, foram utilizadas majoritariamente no CSS medidas como % e rem no lugar de px. 
 
 ## Resultado
+
+✔️ Por Emilly Lamotte - Junho/2021
