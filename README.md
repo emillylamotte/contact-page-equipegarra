@@ -13,3 +13,13 @@ A página contém um link para as principais redes sociais da Equipe Garra de Ta
 A página é responsiva, ou seja, foram utilizadas majoritariamente no CSS medidas como % e rem no lugar de px. 
 
 ## Resultado
+A página já está funcional e hospedada no GitHub Pages através do link abaixo, mas ainda pode passar por melhorias.
+<br>
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/79487290/121297063-2124b400-c8c8-11eb-990e-f9c3299e43d9.png" width="500"/>
+ <br>
+Resultado Final do projeto: https://emillylamotte.github.io/contact-page-equipegarra/
+<br>
+
+✔️ Por Emilly Lamotte - Junho/2021
+  
